@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    //padrão do projeto
+"target": "ES6",
+    //padrão js
+"module": "CommonJS",
+    //pasta dos arquivos 
+"outDir": "./dist",
+  //tipagem
+"strict": true,
+"esModuleInterop": true
+
+  }
+}
